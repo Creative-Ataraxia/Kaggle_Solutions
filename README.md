@@ -101,4 +101,5 @@ Here are my end-to-end solutions for selected Kaggle featured competitions. Code
 ## 📬 Contact
 
 [LinkedIn](https://www.linkedin.com/in/royma/)
+
 [Kaggle](https://www.kaggle.com/alexmason11)
