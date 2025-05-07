@@ -1,6 +1,6 @@
 # My Kaggle Solutions
 
-Here are my end-to-end solutions for selected **Kaggle featured competitions**. Codes in the notebook are carefully documented to show the thought process used in problem solving.
+Here are my end-to-end solutions for selected Kaggle featured competitions. Codes in the notebook are carefully documented to show the thought process used during problem solving.
 
 ---
 
