@@ -86,7 +86,7 @@ Here are my end-to-end solutions for selected Kaggle featured competitions. Code
 
 ---
 
-## 🧠 Core Skills Used
+## Skills Used
 
 | Category              | Description                                              |
 |-----------------------|----------------------------------------------------------|
@@ -100,6 +100,5 @@ Here are my end-to-end solutions for selected Kaggle featured competitions. Code
 
 ## 📬 Contact
 
-[LinkedIn](https://www.linkedin.com/in/royma/)
-
+[LinkedIn](https://www.linkedin.com/in/royma/)  
 [Kaggle](https://www.kaggle.com/alexmason11)
